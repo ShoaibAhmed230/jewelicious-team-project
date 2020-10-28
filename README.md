@@ -1,1 +1,1 @@
-# jewelicious-team-project
+# jewelicious e-commerce team-project
